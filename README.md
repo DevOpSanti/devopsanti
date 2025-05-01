@@ -1,7 +1,7 @@
 ## Hi, I'm Alex
 🖥️ I am a Software Enginnering Student at Western Governors University.</br>
 👨‍💻 I am currently staying consistent in projects I am working on.</br> 
-⚡ Working on creating informational content around tech. <!--[instagram](https://www.instagram.com/devopsanti/)--></br> 
+⚡ Working on creating informational content around tech. <!-- removed per not currently needed [instagram](https://www.instagram.com/devopsanti/)--></br> 
 📨 Currently open to internships and Jr roles. 
 
 
