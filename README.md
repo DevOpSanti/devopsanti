@@ -1,5 +1,5 @@
 ## Hi, I'm Alex
-🖥️ I am a Software Enginnering Student at Western Governors University.</br>
+🖥️ I'm a Software Engineering Student at Western Governors University.</br>
 👨‍💻 I am currently staying consistent in projects I am working on.</br> 
 🤖 Working on building an Ai Agent. </br><!-- added 05/02/2025 AS --> 
 ⚡ Working on creating informational content around tech. <!-- removed per not currently needed [instagram](https://www.instagram.com/devopsanti/)--></br> 
